@@ -1,0 +1,11 @@
+ID_Transaccion,Fecha,Region,Categoria,Venta_USD,Cantidad
+100,2023-01-01,Norte,Electrónica,150.50,1.0
+101,2023-01-02,Sur,Hogar,230.00,2.0
+102,2023/01/03,Este,Hogar,45.10,
+102,2023/01/03,Este,Hogar,45.10,
+103,2023-01-05,Oeste,Electrónica,99.99,1.0
+104,2023-01-06,Norte,Moda,no_disponible,3.0
+105,,Sur,Moda,120.00,2.0
+106,2023-01-08,,Electrónica,340.00,5.0
+107,2023-01-09,Este,Moda,15.50,1.0
+108,2023-01-10,Oeste,,85.00,2.0
